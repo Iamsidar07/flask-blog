@@ -4,6 +4,7 @@
 .idea/
 .vscode
 instance/
+.env
 
 ### Also any macOS specific files
 .DS_Store
